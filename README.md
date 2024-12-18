@@ -1,0 +1,2 @@
+# netbeans
+INSTALLING JDK AND NETBEANS 
